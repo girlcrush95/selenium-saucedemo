@@ -4,11 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e15b2cc-f64e-4983-96d3-2f5b2e43a3f8" name="Changes" comment="" />
+    <list default="true" id="9e15b2cc-f64e-4983-96d3-2f5b2e43a3f8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Home/productFilterNew.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Home/categories.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Home/categories.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Home/product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Home/product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Home/productFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Home/productFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Home/socialMedia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Home/socialMedia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Login/loginAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Login/loginAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Login/loginTestData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Purchase/purchaseItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Purchase/purchaseItem.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportTestResults" exportFormat="Xml" outputFolder="$PROJECT_DIR$" userTempatePath="" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="TestNG" name="loginNew" />
+    </enabled-run-configurations>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -23,12 +54,101 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/lapto/IdeaProjects/selenium-saucedemo&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="TestNG.productFilterNew">
+    <configuration name="loginAccount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium-saucedemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Login" />
+      <option name="MAIN_CLASS_NAME" value="Login.loginAccount" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/lapto/IdeaProjects/selenium-saucedemo/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-saucedemo" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="loginAccount" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-saucedemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Login" />
+      <option name="MAIN_CLASS_NAME" value="Login.loginAccount" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="loginNew" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-saucedemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Login.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Login" />
+      <option name="MAIN_CLASS_NAME" value="Login.loginNew" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="productFilterNew" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-saucedemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Home.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Home" />
+      <option name="MAIN_CLASS_NAME" value="Home.productFilterNew" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.loginNew" />
+        <item itemvalue="TestNG.productFilterNew" />
+        <item itemvalue="TestNG.C:/Users/lapto/IdeaProjects/selenium-saucedemo/testng.xml" />
+        <item itemvalue="TestNG.loginAccount" />
+        <item itemvalue="JUnit.loginAccount" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,5 +159,14 @@
       <updated>1686577967256</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="TestNG">
+        <watch expression="((loginNew)this).driver" custom="Login.loginNew" />
+        <watch expression="((loginNew)this).driver" custom="Login.loginNew" />
+        <watch expression="((loginNew)this).driver" custom="Login.loginNew" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
